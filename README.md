@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi there! I am Marcel</h1>
-<h3 align="center">Software Solutions Engineer at Cisco EMEAR</h3>
+<h2 align="center">👋 Hi there! I am squ4rks but most people call me Marcel</h2>
+<h4 align="center">Software Solutions Engineer at Cisco EMEAR</h4>
 
 Marcel started to write code at the tender age of ten after stumbling over a book on Delphi for Kids. Once that computer screen showed the text he typed in the editor, a new hobby was found. A computer science degree, a few open source and freelance projects as well as internships later and Marcel is now a Software Solutions Engineer at Cisco. 
 
