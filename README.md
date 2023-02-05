@@ -1,9 +1,7 @@
 <h2 align="center">👋 Hi there! I am squ4rks but most people call me Marcel</h2>
-<h4 align="center">Software Solutions Engineer at Cisco EMEA</h4>
+<h4 align="center">Solutions Architect at AWS</h4>
 
-Marcel started to write code at the tender age of ten after stumbling over a book on Delphi for Kids. Once that computer screen showed the text he typed in the editor, a new hobby was found. A computer science degree, a few open source and freelance projects as well as internships later and Marcel is now a Software Solutions Engineer at Cisco. 
-
-Part of the EMEAR Systems Engineering organisation, he works with large customers in the region on all aspects of programmability. From using design thinking methodologies to identify use cases in customers to building minimum viable products that solve these challenges using Ciscos products and APIs to handling the hand over to the development team for productization Marcel handles the process from idea to reality. 
+Marcel started to write code at the tender age of ten after stumbling over a book on Delphi for Kids. Once that computer screen showed the text he typed in the editor, a new hobby was found. A computer science degree, a few open source and freelance projects as well as internships later and Marcel is now a Solutions Architect in the Swiss Public Sector Team at AWS. 
 
 Besides writing about himself in third person and outside of work he has a passion for 🏊‍♂️🚴‍♂️🏃‍♂️🪂🗻⌚️🍣 in no particular order. 
 
