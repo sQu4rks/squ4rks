@@ -1,9 +1,9 @@
 <h2 align="center">👋 Hi there! I am Marcel</h2>
 <h4 align="center">Solutions Architect</h4>
 
-Marcel started to write code at the tender age of ten after stumbling over a book on Delphi for Kids. Once that computer screen showed the text he typed in the editor, a new hobby was found. A computer science degree, a few open source and freelance projects as well as internships later and Marcel is now a Solutions Architect. 
+Marcel started to write code at the tender age of ten after stumbling over a book on Delphi for Kids. Once that computer screen showed the text he typed in the editor, a new hobby was found. A computer science degree, a few open source and freelance projects as well as internships later and Marcel is now a Solutions Architect helping to build projects with cloud-native technologies. 
 
-He is the author of [Python Network Programming Techniques](https://www.packtpub.com/product/python-network-programming-techniques/9781838646639) (ISBN 978-1-83864-663-9) and also occasionally speak at conferences. You can have a look at some of my talks [here](https://marcel.nlogn.org/category/talks.html).
+He is the author of [Python Network Programming Techniques](https://www.packtpub.com/product/python-network-programming-techniques/9781838646639) (ISBN 978-1-83864-663-9), [AWS for Systems Administrators - 2nd edition](https://www.packtpub.com/en-ch/product/aws-for-system-administrators-9781835469552) (ISBN 9781835469552) and also occasionally speak at conferences. You can have a look at some of my talks [here](https://marcel.nlogn.org/category/talks.html).
 
 Besides writing about himself in third person and outside of work he has a passion for 🏊‍♂️🚴‍♂️🏃‍♂️🗻⌚️🍣 in no particular order. 
 
